@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af70544e-33fb-45fe-b300-060f146baea7" name="Changes" comment="Using Actions">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/04-using-actions.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/04-using-actions.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-using-actions/react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-using-actions/react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-using-actions/react/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;satishk38&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/satishk38/codespaces-example.git&quot;,
+    &quot;accountId&quot;: &quot;b3724735-9b2f-4156-93f0-e0ffa8869fee&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39a0VP2mMfMUe6Jepk2vrLnAID5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/satish/IdeaProjects/codespaces-example",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github/workflows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04-using-actions" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af70544e-33fb-45fe-b300-060f146baea7" name="Changes" comment="" />
+      <created>1770918897128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770918897128</updated>
+      <workItem from="1770918898217" duration="11122000" />
+      <workItem from="1771004060165" duration="198000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1770919753781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770919753781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1770925570694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770925570694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1770926073054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770926073054</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Runner Commit">
+      <option name="closed" value="true" />
+      <created>1770933960890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770933960890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Runner Commit">
+      <option name="closed" value="true" />
+      <created>1770946439450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770946439450</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771000077168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771000077168</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771000700592</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771000700592</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771000775294</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771000775294</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771001767912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771001767912</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771001853503</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771001853503</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771001977399</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771001977399</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771002268625</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771002268625</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Using Actions">
+      <option name="closed" value="true" />
+      <created>1771002473755</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1771002473755</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Runner Commit" />
+    <MESSAGE value="Using Actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using Actions" />
+  </component>
+</project>
